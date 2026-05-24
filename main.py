@@ -42,5 +42,5 @@ while is_on:
         else: 
             print("Contraseña incorrecta por favor intente nuevamente")
     else: 
-        print("Numero de cuenta invalido por favor intente nueevamente")
+        print("Numero de cuenta invalido por favor intente nuevamente")
     
